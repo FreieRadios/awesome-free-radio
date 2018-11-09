@@ -9,4 +9,8 @@ These projects are used and/or developed by free radio stations.
 * [autoradio](https://gitlab.servus.at/autoradio) - AuRa - automated radio playout and management for community radio stations
 * [Comba](https://github.com/FreieRadios/comba) - Comba is a modular server-side system for automation of broadcast and rebroadcasts for community radio.
 
+## Other resources
+
+* [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources for broadcasters.
+
 
