@@ -2,6 +2,10 @@
 
 List of projects and resources around free community radio stations (mostly German-speaking)
 
+## Hardware projects
+
+* [Studioguard](studioguard.eu) - audio technology for visually impaired. [explain video](https://www.youtube.com/watch?v=CKWSHuKffW4)
+
 ## Open source projects
 
 These projects are used and/or developed by free radio stations.
