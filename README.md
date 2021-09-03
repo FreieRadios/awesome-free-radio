@@ -18,7 +18,6 @@ These projects are used and/or developed by free radio stations.
 * [Freie Radio API](https://git.hack-hro.de/lohro/bfr-api) - developing a "common" language for the free radio ecosystem
 * [Open Audio Search](https://openaudiosearch.org/) - search engine for audio. It can index RSS feeds and use automatic speech recognition to extract text from audio. User can play results directly as OAS jumping right to search result snippets.
 
-
 ## Other resources
 
 * [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources for broadcasters.
