@@ -17,6 +17,8 @@ These projects are used and/or developed by free radio stations.
 * [LOHROthek](https://git.hack-hro.de/lohro/lohrothek/) - full solution for radio management in development, firsts aspects on content, programm and broadcast preperation. Including vue.js frontend for online publication (Mediathek)
 * [Freie Radio API](https://git.hack-hro.de/lohro/bfr-api) - developing a "common" language for the free radio ecosystem
 * [Open Audio Search](https://openaudiosearch.org/) - search engine for audio. It can index RSS feeds and use automatic speech recognition to extract text from audio. User can play results directly as OAS jumping right to search result snippets.
+* [radiobox](https://github.com/FreieRadios/radiobox) - a box of typescript tools to help community radio stations with schedules; provides basic support for welocal API requests.
+
 
 ## Other resources
 
